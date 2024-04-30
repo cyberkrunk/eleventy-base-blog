@@ -1,10 +1,10 @@
 module.exports = {
-	title: "Eleventy Base Blog v8",
+	title: "Resources For Jazz Guitar",
 	url: "https://example.com/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "A collection of jazz guitar lessons, theory, exercises, and other resources for intermediate to advanced jazz guitarists.",
 	author: {
-		name: "Your Name Here",
+		name: "Chester Jankowski",
 		email: "youremailaddress@example.com",
 		url: "https://example.com/about-me/"
 	}
